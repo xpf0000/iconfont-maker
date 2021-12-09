@@ -1,0 +1,18 @@
+{
+  "name": "iconfont-maker",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd ./src;gulp Iconfont"
+  },
+  "devDependencies": {
+    "async": "^3.2.2",
+    "eslint": "^7.22.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "gulp": "^4.0.2",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^11.0.0"
+  }
+}
